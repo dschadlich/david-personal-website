@@ -1,0 +1,46 @@
+﻿David Schadlich
+26 Melrose Ave.
+Trumbull, CT 06611
+(413) 570-0007
+dschadlich@gmail.com
+ 
+Education:
+Trumbull High school, Trumbull, Connecticut
+Sophomore at Norwalk Community College studying towards degree in Computer Security
+ 
+Experience/Skills:
+Familiar with various Operating Systems, including:
+DOS, Windows 3.1 to Windows 7, Mac OS 8 to 10.x, Unix, Linux
+ 
+Server Software Includes:
+Linux, Apache, Nginx, MySQL, Postfix, Bind, Windows 2000/2003, Cisco IOS
+ 
+Development Skills include:
+HTML, CSS, PHP, SQL, Javascript, NodeJS, ActionScript, Flash, C#, Objective-C
+
+
+Proficient with enterprise Cisco networking hardware
+ 
+Basic Electrical Engineering
+ 
+Proficient in computer hardware diagnostics and repair
+ 
+Employment History:
+09/2005 - 07/2007
+Electronics Technician at West Mountain Radio
+Repairing Computerized Battery Analyzers
+ 
+07/2007 - 08/2008
+TheCauseUSA
+Responsible for Network Infrastructure, Database, Website, Multimedia for Events
+ 
+08/2009 - 09/2014
+MinistryStreams:
+Developed web-streaming platform, provided technical support for customers, provided on-site support for live streaming of events.
+ 
+07/2011 - 09/2014
+Environmental AirTechs:
+Developed solutions for remote monitoring of different environmental conditions in work spaces, this included hardware design and user interface development, Maintained office workstations
+ 
+References:
+Available upon request.
