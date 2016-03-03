@@ -25,3 +25,11 @@ body,html{
 
 }
 */
+.jumbotron {
+  color: white;
+  text-shadow: #333 0 3px 3px;
+  background: transparent;
+  position: absolute;
+  left: 100px;
+  top: 250px;
+}
