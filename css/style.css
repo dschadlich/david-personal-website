@@ -1,7 +1,8 @@
 /* All style should go in this document. */
 body,html{
   height: 100%;
-  background-color: #6274CC;
+  background-color: #CCC;
+  font-size: 16px;
 
 }
 
@@ -17,6 +18,11 @@ body,html{
   background-color: #6274CC;
 }
 
+#content {
+  background-color: #CCC;
+
+}
+
 /*
 [class^=col-]{
 
@@ -29,7 +35,8 @@ body,html{
   color: white;
   text-shadow: #333 0 3px 3px;
   background: transparent;
-  position: absolute;
-  left: 100px;
-  top: 250px;
+  position: relative;
+  left: 50px;
+  top: -250px;
+  display: inline;
 }
