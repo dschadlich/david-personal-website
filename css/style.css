@@ -31,7 +31,7 @@ body,html{
 
 }
 */
-.jumbotron {
+.nameHeader {
   color: white;
   text-shadow: #333 0 3px 3px;
   background: transparent;
@@ -40,3 +40,19 @@ body,html{
   top: -250px;
   display: inline;
 }
+@media (max-width: 768px) {
+
+ }
+@media (max-width: 992px) {
+  .nameHeader{
+    left: 0px;
+    top: 0px;
+    margin: 0 auto;
+    }
+ }
+@media (min-width: 992px) and (max-width: 1200px) {
+
+ }
+@media (min-width: 1200px) {
+
+ }
