@@ -45,7 +45,10 @@ styling i used to debug the colums
 .nameHeader h1{
   display:inline;
 }
-
+.ds-nav-bar {
+  background-color: rgba(248,248,248,.5);
+  border: 0;
+}
 @media (max-width: 992px) {
   .nameHeader{
     left: 0px;
