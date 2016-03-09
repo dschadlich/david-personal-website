@@ -1,8 +1,9 @@
 /* All style should go in this document. */
 body,html{
   height: 100%;
-  background-color: #CCC;
-  font-size: 16px;
+  background-color: #8888ff;
+  font-size: 18px;
+  color: white;
 
 }
 
@@ -19,7 +20,7 @@ body,html{
 }
 
 #content {
-  background-color: #CCC;
+  background-color: #8888ff;
 
 }
 
