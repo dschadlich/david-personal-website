@@ -23,7 +23,13 @@ body,html{
   background-color: #8888ff;
 
 }
-
+#content h3 {
+  text-decoration: underline;
+}
+a.jumppoint{
+  position: relative;
+  top: -50px;
+}
 /*
 styling i used to debug the colums
 [class^=col-]{
