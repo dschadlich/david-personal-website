@@ -7,7 +7,7 @@ $( document ).ready(function() {
 //            imageAttribute: 'image',
 //            container: $('body'),
 //            windowObject: $(window),
-            speed:0,
+            speed:.5,
 //            coverRatio:.75,
             coverRatio:1,
 //            holderClass: 'imageHolder',
