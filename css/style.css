@@ -65,6 +65,24 @@ styling i used to debug the colums
   z-index: -1;
 }
 
+.technology-icon {
+  font-size: 4rem;
+  transition: ease-in-out .3s;
+  color:#2D356D;
+}
+
+.technology-icon:hover {
+  font-size: 4.5rem;
+  color:#3737A7;
+}
+.col-with-icon {
+  text-align:center;
+  height: 8rem;
+}
+.col-with-icon p{
+  margin: 0;
+}
+
 @media (max-width: 992px) {
   .nameHeader{
     padding-top: 50px;
