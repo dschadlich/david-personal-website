@@ -1,7 +1,7 @@
 /* All style should go in this document. */
 body,html {
   height: 100%;
-  background-color: #525CFD;
+  background-color: #6285a5;
   font-size: 18px;
   color: white;
 }
@@ -13,28 +13,25 @@ body,html {
   background-size:cover;
 }
 
-#spacerBar {
-  background-color: #6274CC;
-}
 
-#content {
-  background-color: #8888ff;
-}
 
-#content h3 {
+ h3 {
   text-decoration: underline;
 }
 
 a {
-  color: #151933;
+  /*color: #151933;*/
+  color:#3a4f63;
+
+
 }
 
 a:visited {
-  color: #151933; 
+  color:#3a4f63;
 }
 
 a:hover {
-  color: #162270;
+  color: #4e6a84;
 }
 
 a.jumppoint {
@@ -76,21 +73,40 @@ styling i used to debug the colums
 .technology-icon {
   font-size: 4rem;
   transition: ease-in-out .3s;
-  color:#2D356D;
+  color:#3a4f63;
 }
 
 .technology-icon:hover {
-  font-size: 4.5rem;
-  color:#3737A7;
+  font-size: 5rem;
+  color:#4e6a84;
 }
 
 .col-with-icon {
-  text-align:center;
-  height: 8rem;
+
 }
 
 .col-with-icon p {
   margin: 0;
+}
+
+.flexable {
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+
+}
+.flexable-item{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  text-align:center;
+  height: 8rem;
+  min-width: 9rem;
+}
+.fa {
+  padding-top: .25em;
+}
+.row {
+  min-height: 100px;
 }
 
 @media (max-width: 992px) {
